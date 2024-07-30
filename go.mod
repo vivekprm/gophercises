@@ -2,6 +2,8 @@ module github.com/vivekprm/gophercises
 
 go 1.17
 
+require golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56
+
 require (
 	github.com/ajstarks/deck v0.0.0-20200831202436-30c9fc6549a9 // indirect
 	github.com/ajstarks/deck/generate v0.0.0-20210309230005-c3f852c02e19 // indirect
@@ -12,7 +14,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/spf13/cobra v1.8.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
+	github.com/vivekprm/gophercises/deck-of-cards v0.0.0-20240729071115-71ed19ff4a41 // indirect
 	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
