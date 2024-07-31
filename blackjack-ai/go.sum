@@ -1,0 +1,12 @@
+github.com/josharian/impl v1.4.0 h1:+OI2Kg2I850vZIxNuRmSG5d38YItGpQENuKdhA0Phgs=
+github.com/josharian/impl v1.4.0/go.mod h1:CjNfeQydqK9IWOpsW/jE/wqks+lEbEKlrIATWwZ3lao=
+github.com/vivekprm/gophercises/deck-of-cards v0.0.0-20240730062058-b976085796e4 h1:6wy6De4T2xk40Y1iwq1CiikiFu62byfnXyZwt7eQpJA=
+github.com/vivekprm/gophercises/deck-of-cards v0.0.0-20240730062058-b976085796e4/go.mod h1:9zQbCLf5N3RF0YmEFlt7nvFCrT9nLX4FeeRfBl5itj0=
+golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 h1:2dVuKD2vS7b0QIHQbpyTISPd0LeHDbnYEryqj5Q1ug8=
+golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56/go.mod h1:M4RDyNAINzryxdtnbRXRL/OHtkFuWGRjvuhBJpk2IlY=
+golang.org/x/mod v0.19.0 h1:fEdghXQSo20giMthA7cd28ZC+jts4amQ3YMXiP5oMQ8=
+golang.org/x/mod v0.19.0/go.mod h1:hTbmBsO62+eylJbnUtE2MGJUyE7QWk4xUqPFrRgJ+7c=
+golang.org/x/sync v0.7.0 h1:YsImfSBoP9QPYL0xyKJPq0gcaJdG3rInoqxTWbfQu9M=
+golang.org/x/sync v0.7.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
+golang.org/x/tools v0.23.0 h1:SGsXPZ+2l4JsgaCKkx+FQ9YZ5XEtA1GZYuoDjenLjvg=
+golang.org/x/tools v0.23.0/go.mod h1:pnu6ufv6vQkll6szChhK3C3L/ruaIv5eBeztNG8wtsI=
